@@ -1,0 +1,27 @@
+{
+  "name": "nodecrashcourse",
+  "version": "1.0.0",
+  "main": "global.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrgrant/nodehwk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrgrant/nodehwk/issues"
+  },
+  "homepage": "https://github.com/vrgrant/nodehwk#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "lodash": "^4.17.21"
+  }
+}
