@@ -21,6 +21,7 @@
   "homepage": "https://github.com/vrgrant/nodehwk#readme",
   "description": "",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^5.1.0",
     "lodash": "^4.17.21"
   }
